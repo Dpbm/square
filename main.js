@@ -1,5 +1,5 @@
-const rows = 3;
-const columns = 3;
+const rows = 3; // change this value to increase or decrease the number of rows 
+const columns = 3; // change this value to increase or decrease the number of columns 
 
 const getMiddle = (totalCharacters, character) => (Array(totalCharacters)
     .fill(null)
